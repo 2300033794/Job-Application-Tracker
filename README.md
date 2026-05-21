@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Application Tracker
 
 A full-stack Job Application Tracker built using React, Vite, Express, and Node.js.
@@ -92,6 +93,84 @@ npm run dev
 
 ---
 
+# Commands Used
+
+## Frontend Commands
+
+Install frontend dependencies:
+
+```bash
+npm install
+```
+
+Run frontend:
+
+```bash
+npm run dev
+```
+
+Build frontend:
+
+```bash
+npm run build
+```
+
+---
+
+## Backend Commands
+
+Move to backend folder:
+
+```bash
+cd server
+```
+
+Install backend dependencies:
+
+```bash
+npm install
+```
+
+Run backend server:
+
+```bash
+npm run dev
+```
+
+or
+
+```bash
+node index.js
+```
+
+---
+
+# Ports Used
+
+Frontend:
+
+```bash
+http://localhost:5173
+```
+
+or
+
+```bash
+http://localhost:5174
+```
+
+Backend:
+
+```bash
+http://localhost:5000
+```
+
+---
+
+
+
+---
+
 # Application URLs
 
 Frontend:
@@ -143,3 +222,7 @@ This web application is designed to help users keep track of their job applicati
     - http://localhost:5173
 
 The backend API runs on http://localhost:5000 and the Vite dev server proxies `/api` requests to it.
+=======
+# Job-Application-Tracker
+Job Application Tracker DEMO MODEL
+>>>>>>> ba0e7d6a118e23d87f329ae139f31e1125534e87
